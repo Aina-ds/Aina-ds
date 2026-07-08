@@ -90,7 +90,19 @@ I'm continuously improving my skills by working on practical projects in **Machi
 More projects are available in my repositories.
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aina-ds&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aina-ds&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aina-ds&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning
