@@ -93,7 +93,7 @@ More projects are available in my repositories.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aina-ds&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aina-ds&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ More projects are available in my repositories.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aina-ds&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aina-ds&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 ## 🌱 Currently Learning
 
