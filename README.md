@@ -106,12 +106,7 @@ More projects are available in my repositories.
 
 I am an aspiring **Data Scientist** with a strong interest in **Machine Learning, Artificial Intelligence, and Data Analytics**. My objective is to build intelligent, data-driven solutions while gaining practical experience through internships, remote work, and freelance opportunities. I am committed to continuous learning and contributing to impactful real-world projects.
 
-## 📫 Connect With Me
 
-📧 Email: **ainaazhar2019@gmail.com**
-
-💼 LinkedIn:
-www.linkedin.com/in/aina-azhar-a29a8b34a
 
 ---
 
