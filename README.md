@@ -1,6 +1,6 @@
 # Hi there, I'm Aina Azhar 👋
 
-### Data Science Undergraduate | Machine Learning Enthusiast | Python Developer | SQL & Data Analytics
+### BS Data Science Student | Machine Learning | Data Analytics | Python | SQL | AI Enthusiast
 
 Welcome to my GitHub! I'm a **6th Semester BS Data Science student** at **COMSATS University Islamabad, Pakistan**. I enjoy solving real-world problems through data, building machine learning models, and uncovering insights using Python, SQL, and modern data science tools.
 
@@ -19,7 +19,7 @@ I'm continuously improving my skills by working on practical projects in **Machi
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Tech Stack
 
 ### Programming Languages
 - Python
@@ -90,19 +90,7 @@ I'm continuously improving my skills by working on practical projects in **Machi
 More projects are available in my repositories.
 
 ---
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aina-ds&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aina-ds&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aina-ds&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning
@@ -113,9 +101,17 @@ More projects are available in my repositories.
 
 ---
 
+
 ## 🎯 Career Goals
 
-I aspire to become a **Data Scientist** specializing in Machine Learning and Artificial Intelligence. My goal is to build intelligent, data-driven solutions, contribute to impactful projects, and grow through internships, remote opportunities, and freelance work while continuously learning new technologies.
+I am an aspiring **Data Scientist** with a strong interest in **Machine Learning, Artificial Intelligence, and Data Analytics**. My objective is to build intelligent, data-driven solutions while gaining practical experience through internships, remote work, and freelance opportunities. I am committed to continuous learning and contributing to impactful real-world projects.
+
+## 📫 Connect With Me
+
+📧 Email: **ainaazhar2019@gmail.com**
+
+💼 LinkedIn:
+www.linkedin.com/in/aina-azhar-a29a8b34a
 
 ---
 
